@@ -1,0 +1,33 @@
+{
+  "coord": { "lon": 126.9778, "lat": 37.5683 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01n" }
+    // 메인이 하늘의 상태를 의미함
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 272.81, //절대온도
+    "feels_like": 270.56,
+    "temp_min": 272.81,
+    "temp_max": 276.84,
+    "pressure": 1029,
+    "humidity": 55,
+    "sea_level": 1029,
+    "grnd_level": 1022
+  },
+  "visibility": 10000,
+  "wind": { "speed": 1.8, "deg": 151, "gust": 2.21 },
+  "clouds": { "all": 1 },
+  "dt": 1707750288,
+  "sys": {
+    "type": 1,
+    "id": 5509,
+    "country": "KR",
+    "sunrise": 1707776708,
+    "sunset": 1707815261
+  },
+  "timezone": 32400,
+  "id": 1835848,
+  "name": "Seoul",
+  "cod": 200
+}
